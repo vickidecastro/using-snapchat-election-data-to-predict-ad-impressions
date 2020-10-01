@@ -9,7 +9,9 @@ The election data provided by Snapchat includes information on ad impressions, s
 What factors help us increase the number of impressions we receive on our political advertisements? 
 
 ## Data Sources
-2020 Snapchat Election Data 
+2020 Snapchat Political Ads Data 
+
+[2020 Snapchat Political Ads Readme] (snapchat readme.xlsx)
 
 ## Data Questions
 Which variables have an effect on number of impressions? 
