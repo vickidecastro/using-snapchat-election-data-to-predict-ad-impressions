@@ -31,6 +31,7 @@ What are the R^2 values of our simple and linear regressions?
 What are the standard errors of our simple and linear regressions? 
 - Simple: 2146773.986 (Ad Spend)
 - Multiple: 2121130.677 (Ad Spend and Total Time)
+
 Standard error represents reliability of the mean. The multiple regression model has a smaller SE, meaning its mean provides a more accurate reflection of the true population mean. 
 <img width="683" alt="Screen Shot 2020-09-30 at 10 37 28 PM" src="https://user-images.githubusercontent.com/70858878/94759301-8a354e80-036d-11eb-932e-2a7904f9fd20.png">
 
@@ -39,6 +40,8 @@ Standard error represents reliability of the mean. The multiple regression model
 ## Summary
 ![image](https://user-images.githubusercontent.com/70858878/94759000-bdc3a900-036c-11eb-8cf7-d18ea5531277.png)
 
+Our multiple regression analysis shows us that ad spend and total time of ad campaign explains 70.7% of the variation in number of impressions. 
+As both coefficients are positive, we can deduce that increasing ad spent and increasing total time of ad campaign would result in a higher number of ad impressions, which intuitively makes sense. 
 
 
 
