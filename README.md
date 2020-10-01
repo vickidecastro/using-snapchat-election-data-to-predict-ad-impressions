@@ -16,15 +16,20 @@ What factors help us increase the number of impressions we receive on our politi
 
 ## Data Questions
 Which variables have an effect on number of impressions? 
-- Ad spend and total time of advertisements
+- Ad spend and total time of ad campaign
 
 What are the equations for our simple and linear regressions? 
-- Simple: 
-- Multiple: 
+- Simple: Impressions = -121980.971 + 436.6294095*(Ad Spend)
+- Multiple: Impressions= -374937.1815 + 5483.057998*(Total Ad Campaign Time) + 435.3750551*(Ad Spend)
 
 What are the R^2 values of our simple and linear regressions? 
+- Simple: 0.700047932 (Ad Spend)
+- Multiple: 0.707228264 (Ad Spend and Total Time)
 
 What are the standard errors of our simple and linear regressions? 
+- Simple: 2146773.986 (Ad Spend)
+- Multiple: 2121130.677 (Ad Spend and Total Time)
+
 
 
 ## Summary
