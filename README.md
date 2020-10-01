@@ -22,6 +22,7 @@ Which variables have an effect on number of impressions?
 What are the equations for our simple and linear regressions? 
 - Simple: Impressions = -121980.971 + 436.6294095*(Ad Spend)
 - Multiple: Impressions= -374937.1815 + 5483.057998*(Total Ad Campaign Time) + 435.3750551*(Ad Spend)
+It is worth mentioning that both equations begin with a negative intercept, which is not possible for number of impressions (which starts at 0). Further research is needed to explore this issue with the intercept.
 
 What are the R^2 values of our simple and linear regressions? 
 - Simple: 0.700047932 (Ad Spend): This means that 70% of the variance in number of impressions is explained by the simple model, which uses ad spend as the dependent variable. 
