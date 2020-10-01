@@ -24,16 +24,14 @@ What are the equations for our simple and linear regressions?
 - Multiple: Impressions= -374937.1815 + 5483.057998*(Total Ad Campaign Time) + 435.3750551*(Ad Spend)
 
 What are the R^2 values of our simple and linear regressions? 
-- Simple: 0.700047932 (Ad Spend)
-This means that 70% of the variance in number of impressions is explained by the simple model, which uses ad spend as the dependent variable. 
+- Simple: 0.700047932 (Ad Spend): This means that 70% of the variance in number of impressions is explained by the simple model, which uses ad spend as the dependent variable. 
 
-- Multiple: 0.707228264 (Ad Spend and Total Time)
-This means that 70.7% of the variance in number of impressions is explained by the multiple regression model using ad spend and total time as the predictor variables. 
+- Multiple: 0.707228264 (Ad Spend and Total Time): This means that 70.7% of the variance in number of impressions is explained by the multiple regression model using ad spend and total time as the predictor variables. 
 
 What are the standard errors of our simple and linear regressions? 
 - Simple: 2146773.986 (Ad Spend)
 - Multiple: 2121130.677 (Ad Spend and Total Time)
-
+Standard error represents reliability of the mean. The multiple regression model has a smaller SE, meaning its mean provides a more accurate reflection of the true population mean. 
 <img width="683" alt="Screen Shot 2020-09-30 at 10 37 28 PM" src="https://user-images.githubusercontent.com/70858878/94759301-8a354e80-036d-11eb-932e-2a7904f9fd20.png">
 
 <img width="773" alt="Screen Shot 2020-09-30 at 10 36 29 PM" src="https://user-images.githubusercontent.com/70858878/94759270-696cf900-036d-11eb-9a8c-84be99b74043.png">
