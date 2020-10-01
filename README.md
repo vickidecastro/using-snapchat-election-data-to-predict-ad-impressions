@@ -5,7 +5,7 @@ The [Social Media Today](https://www.socialmediatoday.com/news/data-shows-snapch
 Political advertisements on Snapchat use different stickers, filters, and lenses to boost voting sentiment, along with providing an informative list of polling locations on Snap Maps. 
 ![image](https://user-images.githubusercontent.com/70858878/94759057-e186ef00-036c-11eb-9258-0bb6158e0b4f.png)
 
-I found this topic particularly interesting in times like these, with the presidential debate happening just yesterday, September 29, 2020. I was also interested in exploring which big name firms and organizations pay for political advertising on Snapchat. 
+I found this topic particularly interesting as political campaigns are using so many different platforms to increase exposure. This topic is very relevant with the presidential debate happening just yesterday, September 29, 2020. I was also interested in exploring which big name firms and organizations pay for political advertising on Snapchat. 
 
 ## Business Question
 What factors help us increase the number of impressions we receive on our political advertisements? 
