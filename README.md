@@ -46,13 +46,7 @@ The two figures below show the summary output for both regressions using the dat
 <img width="773" alt="Screen Shot 2020-09-30 at 10 36 29 PM" src="https://user-images.githubusercontent.com/70858878/94759270-696cf900-036d-11eb-9a8c-84be99b74043.png">
 
 ## Summary
-Our multiple regression analysis shows us that ad spend and total time of ad campaign explain 70.7% of the variation in number of ad impressions. 70.7% is a meaningful amount, as it indicates that a majority of the variance in ad impressions is explained by our two chosen predictor variables. 
-
-As both coefficients are positive, we can deduce that increasing ad spent and increasing total time of ad campaign would result in a higher number of ad impressions, which intuitively makes sense. 
-
-As an advertiser considering positing political content on Snapchat, it is advised by this regression analysis to commit resources to maximizing ad spend and total time of the ad campaign. 
-
-It is important to note that we filtered the data to only include currency denominated in USD, so any country using another currency excluded from this regression analysis. The United States and Norway used USD. 
+Our multiple regression analysis shows us that ad spend and total time of ad campaign explain 70.7% of the variation in number of ad impressions. 70.7% is a meaningful amount, as it indicates that a majority of the variance in ad impressions is explained by our two chosen predictor variables. As both coefficients are positive, we can deduce that increasing ad spent and increasing total time of ad campaign would result in a higher number of ad impressions, which intuitively makes sense. As an advertiser considering positing political content on Snapchat, it is advised by this regression analysis to commit resources to maximizing ad spend and total time of the ad campaign. It is important to note that we filtered the data to only include currency denominated in USD, so any country using another currency excluded from this regression analysis. The United States and Norway used USD. 
 
 Further research is needed to uncover other factors that contribute to number of ad impressions. The election data had many variables, only some of which were easily interpreted as continuous numerical items. My analysis also explored country code by assigning a 1 to the US and a 0 to any other country, but this did not prove statistically significant in the regression, so it was removed. Further research into which geographic areas are most popular amongst Snapchat users within the US would be helpful for ad targeting in the most lucrative places. It would also be helpful to explore if gender plays a role in influencing the number of ad impressions, as it may be possible that either males or females use Snapchat more. 
 
