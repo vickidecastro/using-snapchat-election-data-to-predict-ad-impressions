@@ -33,6 +33,7 @@ What are the standard errors of our simple and linear regressions?
 - Multiple: 2121130.677 (Ad Spend and Total Time)
 
 Standard error represents reliability of the mean. The multiple regression model has a smaller SE, meaning its mean provides a more accurate reflection of the true population mean. 
+The two figures below show the summary output for both regressions using the data analysis function in Excel:
 <img width="683" alt="Screen Shot 2020-09-30 at 10 37 28 PM" src="https://user-images.githubusercontent.com/70858878/94759301-8a354e80-036d-11eb-932e-2a7904f9fd20.png">
 
 <img width="773" alt="Screen Shot 2020-09-30 at 10 36 29 PM" src="https://user-images.githubusercontent.com/70858878/94759270-696cf900-036d-11eb-9a8c-84be99b74043.png">
