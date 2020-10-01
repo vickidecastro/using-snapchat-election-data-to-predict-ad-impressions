@@ -33,6 +33,7 @@ What are the standard errors of our simple and linear regressions?
 - Multiple: 2121130.677 (Ad Spend and Total Time)
 
 Standard error represents reliability of the mean. The multiple regression model has a smaller SE, meaning its mean provides a more accurate reflection of the true population mean. 
+
 The two figures below show the summary output for both regressions using the data analysis function in Excel:
 <img width="683" alt="Screen Shot 2020-09-30 at 10 37 28 PM" src="https://user-images.githubusercontent.com/70858878/94759301-8a354e80-036d-11eb-932e-2a7904f9fd20.png">
 
@@ -41,9 +42,12 @@ The two figures below show the summary output for both regressions using the dat
 ## Summary
 ![image](https://user-images.githubusercontent.com/70858878/94759000-bdc3a900-036c-11eb-8cf7-d18ea5531277.png)
 
-Our multiple regression analysis shows us that ad spend and total time of ad campaign explains 70.7% of the variation in number of impressions. 
+Our multiple regression analysis shows us that ad spend and total time of ad campaign explain 70.7% of the variation in number of ad impressions. 
 As both coefficients are positive, we can deduce that increasing ad spent and increasing total time of ad campaign would result in a higher number of ad impressions, which intuitively makes sense. 
 
+As an advertiser considering positing political content on Snapchat, it is advised by this regression analysis to commit resources to maximizing ad spend and total time of the ad campaign. 
+
+It is important to note that we filtered the data to only include currency denominated in USD, so any country using another currency excluded from this regression analysis. The United States and Norway used USD. 
 
 
 ![image](https://user-images.githubusercontent.com/70858878/94759446-eac48b80-036d-11eb-89d7-159d34aa1998.png)
