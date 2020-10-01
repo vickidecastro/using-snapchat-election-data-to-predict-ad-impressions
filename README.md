@@ -1,4 +1,4 @@
-# Using Snapchat Election Data to Predict Number of Impressions on Ads in 2020
+# Using Snapchat Election Data to Predict Number of Ad Impressions in 2020
 ## Background
 The [Social Media Today](https://www.socialmediatoday.com/news/data-shows-snapchat-is-highly-influential-in-getting-younger-people-to-vote/578020/) article discusses how Snapchat has been a very influential platform in getting younger people to vote. Democracy Works revealed that 450,000 Snapchat users registered to vote using TurboVote, which was highly advertised on Snapchat in 2018. Around 57% of these 450,000 registered voters then voted in the US Midterm elections.
 
@@ -27,4 +27,4 @@ What are the R^2 values of our simple and linear regressions?
 What are the standard errors of our simple and linear regressions? 
 
 
-
+## Summary
