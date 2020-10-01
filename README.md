@@ -25,7 +25,10 @@ What are the equations for our simple and linear regressions?
 
 What are the R^2 values of our simple and linear regressions? 
 - Simple: 0.700047932 (Ad Spend)
+This means that 70% of the variance in number of impressions is explained by the simple model, which uses ad spend as the dependent variable. 
+
 - Multiple: 0.707228264 (Ad Spend and Total Time)
+This means that 70.7% of the variance in number of impressions is explained by the multiple regression model using ad spend and total time as the predictor variables. 
 
 What are the standard errors of our simple and linear regressions? 
 - Simple: 2146773.986 (Ad Spend)
