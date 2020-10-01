@@ -40,6 +40,7 @@ Standard error represents reliability of the mean. The multiple regression model
 The figure above shows Ad Spend vs Number of Ad Impressions using Snapchat political data. I used ad spend as the predictor variable for the simple regression because its R^2 value of 70% was fairly high, compared to the R^2 value of 0.0118 from a simple regression analysis using total time of ad campaign as the predictor variable. 
 
 The two figures below show the summary output for both regressions using the data analysis function in Excel.
+
 <img width="683" alt="Screen Shot 2020-09-30 at 10 37 28 PM" src="https://user-images.githubusercontent.com/70858878/94759301-8a354e80-036d-11eb-932e-2a7904f9fd20.png">
 
 <img width="773" alt="Screen Shot 2020-09-30 at 10 36 29 PM" src="https://user-images.githubusercontent.com/70858878/94759270-696cf900-036d-11eb-9a8c-84be99b74043.png">
@@ -56,4 +57,5 @@ It is important to note that we filtered the data to only include currency denom
 Further research is needed to uncover other factors that contribute to number of ad impressions. The election data had many variables, only some of which were easily interpreted as continuous numerical items. My analysis also explored country code by assigning a 1 to the US and a 0 to any other country, but this did not prove statistically significant in the regression, so it was removed. Further research into which geographic areas are most popular amongst Snapchat users within the US would be helpful for ad targeting in the most lucrative places. It would also be helpful to explore if gender plays a role in influencing the number of ad impressions, as it may be possible that either males or females use Snapchat more. 
 
 As a member of Gen Z, this topic is important to me as I was unaware of how many political advertisements have been put on Snapchat. I am curious if enough political advertisements could potentially sway an uncertain voter to vote for a specific party. 
+
 ![image](https://user-images.githubusercontent.com/70858878/94759446-eac48b80-036d-11eb-89d7-159d34aa1998.png)
